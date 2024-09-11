@@ -225,7 +225,7 @@ function Portfolio () {
                             <Reveal>
                                 <div className='flex sm:flex-row flex-col justify-around items-center'>
                                     <h1 className='font-alex text-myWhite text-4xl sm:text-6xl'>About me</h1>
-                                    <a href='/Nguyen Loc An.pdf' className=' text-myWhite font-alumni py-2 px-10 m-2 font-bold text-lg rounded-full shadow-lg transition-transform transform bg-transparent border-2 border-white hover:scale-105 hover:border-green-600 hover:shadow-myDark focus:outline-none"'>My CV</a>
+                                    <a href='/Portfolio/Nguyen Loc An.pdf' className=' text-myWhite font-alumni py-2 px-10 m-2 font-bold text-lg rounded-full shadow-lg transition-transform transform bg-transparent border-2 border-white hover:scale-105 hover:border-green-600 hover:shadow-myDark focus:outline-none"'>My CV</a>
                                 </div>
                             </Reveal>
                             <Reveal>
