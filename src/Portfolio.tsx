@@ -11,7 +11,7 @@ function Portfolio () {
         <>
             <nav className='Navbar flex text-myWhite lg:px-36 pt-8 lg:justify-center w-full justify-around z-20 backdrop-blur-xl sticky top-0'>
                 <div className='lg:w-1/3 flex gap-x-4 items-center'>
-                    <img src="/assets/inversed_logo.svg" sizes='20px' className='w-14 h-14 '/>
+                    <img src="/Portfolio/assets/inversed_logo.svg" sizes='20px' className='w-14 h-14 '/>
                     <a href="#landing" className='nav-link sm:text-5xl font-medium font-akshar text-2xl'>ALAN</a>
                 </div>
                 <div className='flex lg:w-1/3 justify-around items-center w-1/2 gap-x-4'>
@@ -30,7 +30,7 @@ function Portfolio () {
                 <div className="flex flex-col lg:flex-row lg:pl-20 mt-20 w-full">
                     <div className="w-1/2 lg:w-1/4 flex justify-center self-center">
                         <div className="xl:w-96 w-[90%] cardContainer">
-                        <img src="/assets/ava_card.svg" alt="ava" className="card"/>
+                        <img src="/Portfoli/assets/ava_card.svg" alt="ava" className="card"/>
                         </div>
                     </div>
                     <div className="w-full lg:w-3/4 flex flex-col justify-center gap-y-10 lg:pl-10">
