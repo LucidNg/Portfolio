@@ -30,7 +30,7 @@ function Portfolio () {
                 <div className="flex flex-col lg:flex-row lg:pl-20 mt-20 w-full">
                     <div className="w-1/2 lg:w-1/4 flex justify-center self-center">
                         <div className="xl:w-96 w-[90%] cardContainer">
-                        <img src="/Portfoli/assets/ava_card.svg" alt="ava" className="card"/>
+                        <img src="/Portfolio/assets/ava_card.svg" alt="ava" className="card"/>
                         </div>
                     </div>
                     <div className="w-full lg:w-3/4 flex flex-col justify-center gap-y-10 lg:pl-10">
